@@ -9,9 +9,10 @@ using namespace std;
 * This program show how to use new and delete to create and remove memory in program.
 */
 //create namespace
-/*Branch name
-*
-*
+/*
+* Branch name and description per branch
+* master : total program.
+* master_test : write program and debug.
 */
 //prototype
 //--------------------------
