@@ -5,7 +5,8 @@ using namespace std;
 /* run this program using the console pauser or add your own getch, system(
 ) or input loop */
 /* 
-
+* Description of program.
+* This program show how to use new and delete to create and remove memory in program.
 */
 //create namespace
 /*Branch name
