@@ -23,8 +23,18 @@ using namespace std;
 //struct
 //-------------------
 //union
-//-------------------
-//class
+// !-------------------
+
+// TODO classes
+
+// & class get_number_show_number.
+
+/*
+* Description of class get_number_show_number.
+* class name : get_number_show_number
+* This class get two number and show them.
+*/
+
 //-------------------
 int main(int argc, char** argv)
 {
