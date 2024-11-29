@@ -45,6 +45,8 @@ public :
 
 void get_number() ; // // Prototype of function get_number .
 
+void show_number() ; // // Prototype of function show_number .
+
 
 };
 
