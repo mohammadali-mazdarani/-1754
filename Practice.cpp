@@ -94,3 +94,10 @@ _number_2 = get_number_number2 ;
 * This function don't receive value and don't sent value.
 */
 
+void get_number_show::show_number(){
+
+cout << "Number_1 = " << _number_1 ; // // Show private field1 .
+
+cout << "Number_2 = " << _number_2 ; // // Show private field2 .
+
+}
