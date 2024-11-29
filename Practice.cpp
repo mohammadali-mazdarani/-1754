@@ -37,6 +37,10 @@ using namespace std;
 
 class get_number_show{
 
+private :
+
+int _number_1 , _number_2 ; // //Informative comment : this is private field.
+
 
 
 
