@@ -70,3 +70,10 @@ getch();
 * This function don't receive value and don't sent value.
 */
 
+void get_number(){
+
+int get_number_number1 , get_number_number2 ;
+
+
+
+}
