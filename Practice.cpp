@@ -35,7 +35,15 @@ using namespace std;
 * This class get two number and show them.
 */
 
-//-------------------
+class get_number_show{
+
+
+
+
+};
+
+// !-------------------
+
 int main(int argc, char** argv)
 {
 
