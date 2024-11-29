@@ -74,6 +74,10 @@ void get_number(){
 
 int get_number_number1 , get_number_number2 ;
 
+cout << "Enter number1 = " ;
+cin >> get_number_number1 ;
 
+cout << "Enter number2 = " ;
+cin >> get_number_number2 ;
 
 }
