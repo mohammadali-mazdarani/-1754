@@ -56,5 +56,17 @@ int main(int argc, char** argv)
 getch();
 }
 //function variable
-//--------------------------
-//functions
+// !--------------------------
+
+// TODO Functions and constructors and destructors for classes.
+
+// & Class get_number
+
+// ? Functions
+
+/*
+* Function name get_number.
+* This function get number and insert to private value.
+* This function don't receive value and don't sent value.
+*/
+
