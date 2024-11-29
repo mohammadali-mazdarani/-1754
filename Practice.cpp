@@ -62,7 +62,7 @@ getch();
 
 // TODO Functions and constructors and destructors for classes.
 
-// & Class get_number
+// & Class get_number_show
 
 // ? Functions
 
@@ -87,3 +87,10 @@ _number_1 = get_number_number1 ;
 _number_2 = get_number_number2 ;
 
 }
+
+/*
+* Function name show_number.
+* This function show number's that insert to private field's.
+* This function don't receive value and don't sent value.
+*/
+
