@@ -55,6 +55,8 @@ void show_number() ; // // Prototype of function show_number .
 int main(int argc, char** argv)
 {
 
+    get_number_show ob_1_get_number_show ; 
+
 getch();
 }
 //function variable
