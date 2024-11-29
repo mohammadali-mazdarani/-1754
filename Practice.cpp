@@ -41,7 +41,9 @@ private :
 
 int _number_1 , _number_2 ; // //Informative comment : this is private field.
 
+public :
 
+void get_number() ; // // Prototype of function get_number .
 
 
 };
