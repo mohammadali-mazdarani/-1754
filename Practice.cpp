@@ -61,6 +61,8 @@ int main(int argc, char** argv)
 
     p = &ob_1_get_number_show ;
 
+    p -> get_number() ;
+
 getch();
 }
 //function variable
