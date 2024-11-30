@@ -76,7 +76,13 @@ getch();
 * This function don't receive value and don't sene value.
 */
 
+void separator(){
 
+cout << endl << "-------------------------" << endl ;
+
+}
+
+// !##############################################################
 
 // & Class get_number_show
 
