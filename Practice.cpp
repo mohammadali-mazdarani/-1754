@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 
     p -> get_number() ;
 
-    
+    separator() ;
 
 getch();
 }
@@ -88,7 +88,7 @@ getch();
 
 void separator(){
 
-cout << endl << "-------------------------" << endl ;
+cout << endl << "-------------------------" << endl << endl ;
 
 }
 
