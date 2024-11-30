@@ -14,8 +14,15 @@ using namespace std;
 * master : total program.
 * master_test : write program and debug.
 */
-//prototype
-//--------------------------
+
+//!------------------------------------
+
+// TODO Prototype
+
+void separator() ;
+
+// !--------------------------
+
 //micro
 //---------------------
 //global variable
@@ -47,7 +54,6 @@ void get_number() ; // // Prototype of function get_number .
 
 void show_number() ; // // Prototype of function show_number .
 
-
 };
 
 // !-------------------
@@ -62,6 +68,8 @@ int main(int argc, char** argv)
     p = &ob_1_get_number_show ;
 
     p -> get_number() ;
+
+    
 
 getch();
 }
