@@ -70,6 +70,9 @@ int main(int argc, char** argv)
     p -> get_number() ;
 
     separator() ;
+   
+    ( *p ).show_number() ;
+
 
 getch();
 }
@@ -128,8 +131,8 @@ _number_2 = get_number_number2 ;
 
 void get_number_show::show_number(){
 
-cout << "Number_1 = " << _number_1 ; // // Show private field1 .
+cout << "Private number_1 = " << _number_1 << endl ; // // Show private field1 .
 
-cout << "Number_2 = " << _number_2 ; // // Show private field2 .
+cout << "Private number_2 = " << _number_2 ; // // Show private field2 .
 
 }
