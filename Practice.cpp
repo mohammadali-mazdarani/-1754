@@ -59,12 +59,24 @@ int main(int argc, char** argv)
 
     get_number_show *p ; 
 
+    p = &ob_1_get_number_show ;
+
 getch();
 }
 //function variable
 // !--------------------------
 
 // TODO Functions and constructors and destructors for classes.
+
+// &  Function's without class.
+
+/*
+* function name is separator.
+* This function make separator.
+* This function don't receive value and don't sene value.
+*/
+
+
 
 // & Class get_number_show
 
