@@ -119,7 +119,7 @@ cin >> get_number_number2 ;
 
 _number_1 = get_number_number1 ;
 
-_number_2 = get_number_number2 ;
+_number_2 = get_number_number2 ; // // this is a  private field.
 
 }
 
