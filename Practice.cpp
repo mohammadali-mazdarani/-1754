@@ -50,9 +50,9 @@ int _number_1 , _number_2 ; // //Informative comment : this is private field.
 
 public :
 
-void get_number() ; // // Prototype of function get_number .
+void get_number() ; // // Informative comment : Prototype of function get_number .
 
-void show_number() ; // // Prototype of function show_number .
+void show_number() ; // //Informative comment : Prototype of function show_number .
 
 };
 
